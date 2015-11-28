@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eKYC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_id_description">User ID</string>
+    <string name="password_description">Password</string>
+    <string name="button">LOGIN</string>
+    <string name="userId">User ID cannot be empty</string>
+    <string name="pwdEmpty">Password Cannot be empty</string>
+</resources>
